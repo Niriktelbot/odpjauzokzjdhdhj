@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-telegram-bot-api": "^0.58.0",
+    "node-qiwi-api": "^2.2.1",
+  }
+}
+ 
+
+
+
+
+
+
+
